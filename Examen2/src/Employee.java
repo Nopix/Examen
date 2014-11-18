@@ -47,10 +47,10 @@ public class Employee {
 	public void setSalary(double salary) {
 		mySalary = salary;
 	}
+	//He creado un nuevo metodo
 	public void setName(String name) {
 		myName = name;
 	}
-	
 	/**
 	 * Metodo que devuelve la cadena "Name: (nombre empleado), Salary: (Salario actual del empleado)
 	 * @return Cadena <b>String</b> donde tenemos el nombre y el salario actual del empleado.
