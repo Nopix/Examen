@@ -44,6 +44,7 @@ public class Employee {
 	 * Este método devuelve void
 	 * @param salary double indica el nuevo salario que será asignado al empleado.
 	 */
+	//actualizar salario
 	public void setSalary(double salary) {
 		mySalary = salary;
 	}
